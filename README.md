@@ -2,7 +2,8 @@
 Slime Platform Panic é um jogo de plataforma inspirado em Cat Mario, onde o jogador controla um slime em sua jornada cheia de armadilhas e obstáculos traiçoeiros! O objetivo é simples: superar os desafios de cada fase e chegar ao portal para avançar para o próximo nível. Mas cuidado! O jogo está repleto de armadilhas e surpresas que vão testar suas habilidades.
 
 ## 📖 Sobre o Projeto
-Slime Platform Panic combina mecânicas clássicas de jogos de plataforma com um toque de imprevisibilidade e dificuldade inspirada em jogos "rage" como Cat Mario. Ideal para quem gosta de desafios e não tem medo de recomeçar!
+Slime Platform Panic combina mecânicas clássicas de jogos de plataforma com um toque de imprevisibilidade e dificuldade inspirada em jogos "rage" como Cat Mario. Ideal para quem gosta de desafios e não tem medo de recomeçar! <b>E O JOGO NÃO É RECOMENDADO PARA QUEM POSSUI PROBLEMAS DE CORAÇÃO OU DE PRESSÃO, POIS POSSUI SUSTOS</b>
+
 
 ## 🎮 Características Principais
 Jogabilidade Clássica de Plataforma: Controle o slime com movimentos precisos e simples.
