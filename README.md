@@ -30,7 +30,7 @@ Clone ou baixe o repositório e se divirta.
 ## 📝 Notas
 Dica: Alguns obstáculos podem não ser o que parecem, e há sempre uma maneira de ultrapassar cada armadilha. O jogo foi feito para testar a paciência e as habilidades dos jogadores — não desista facilmente!
 ##Integrantes:
-### João Pedro Amaral Rosa - 29630746
-### Gabriel de Souza Ribeiro - 29893861
-### Davi Augusto Souza Silva - 29580498
-### Vinicius de Souza - 29237921
+### João Pedro Amaral Rosa - 29630746 - (Desenvolvedor GML)
+### Gabriel de Souza Ribeiro - 29893861 - (Designer Visual)
+### Davi Augusto Souza Silva - 29580498 - (Desenvolvedor GML)
+### Vinicius de Souza - 29237921 - (Designer Visual)
